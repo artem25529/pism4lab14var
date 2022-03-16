@@ -1,0 +1,5 @@
+module coder {
+    interface Decoder {
+        attribute string decode;
+    };
+};

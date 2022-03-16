@@ -1,0 +1,5 @@
+module coder {
+    interface Coder {
+        attribute string code;
+    };
+};
